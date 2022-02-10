@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Fatih 👋
 <!--
 **fatihyalcin-fy/fatihyalcin-fy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -10,7 +10,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=fatihyalcn9332@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihyalcin-fy/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://www.kitatasarim.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihyalcin-fy" alt="fatihyalcin-fy" /> </p>
 
